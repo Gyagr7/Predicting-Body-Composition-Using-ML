@@ -1,1 +1,2 @@
 
+This repository contains the codebase used in our paper on p-Laplacian–based semi-supervised regression for predicting body-composition outcomes (e.g., ALM, BMD, BFP) from 3D optical imaging–derived features. The pipeline constructs a similarity graph over participants, applies p-Laplacian regularization to leverage both labeled and unlabeled samples, and compares performance against standard supervised baselines. Scripts are provided to reproduce the main experiments.
